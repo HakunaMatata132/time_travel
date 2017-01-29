@@ -1,0 +1,11 @@
+[user]
+	name = CJ
+	email = assassin.bored@gmail.com
+[alias]
+	co = checkout
+	gb = branch
+	gc = commit
+	gst = status
+	gba = branch
+[apply]
+	whitespace = nowarn
